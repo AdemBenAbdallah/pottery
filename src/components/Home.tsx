@@ -1,4 +1,4 @@
-import backgroundImage from '../assets/handsHome.png';
+import backgroundImage from '../assets/handsHome.webp';
 import About from './About';
 import Button from './Button';
 import Container from './Container';
